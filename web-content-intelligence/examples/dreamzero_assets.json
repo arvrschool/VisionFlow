@@ -1,0 +1,12 @@
+{
+    "main_content": "DreamZero 提出了世界动作模型 (World Action Model, WAM) 的概念。它利用预训练的视频扩散模型作为骨干，通过同时预测未来的世界状态和动作，将视频作为世界演变的密集表征来学习物理动力学。其核心创新在于：1. 强大的泛化能力，在真实机器人实验中比 SOTA 的 VLA 模型提升了 2 倍以上；2. 极致的性能优化，将 14B 参数的视频扩散模型加速 38 倍，实现 7Hz 的实时闭环控制；3. 跨具身迁移，仅需 30 分钟数据即可适配新机器人，且支持通过人类视频进行少样本学习。",
+    "voiceover_script_chinese": "刷爆机器人圈！NVIDIA 研究员领衔推出的 DreamZero 彻底解决了机器人的‘脑补’难题。以前的机器人换个环境就‘抓瞎’，但 DreamZero 引入了全新的‘世界动作模型’。它像人类一样，通过看视频就能理解物理世界的运行规律。最夸张的是，它的泛化能力直接翻倍，面对从未见过的新任务也能应对自如。而且，研发团队把 140 亿参数的大模型优化到了每秒 7 次的实时控制，速度提升 38 倍！这意味着机器人不再是笨拙的铁疙瘩，而是能实时反应的‘数字生命’。未来，只要给机器人看一段视频，它就能学会你的家务绝活。具身智能的零样本时代，真的来了！",
+    "video_title": "DreamZero: 机器人界的“零样本”战神",
+    "video_key_info": "14B 视频扩散模型 + 38倍加速，开启机器人泛化新纪元",
+    "intro_text": "DreamZero: 视频即动力学！世界动作模型 WAM 横空出世。🚀
+
+泛化能力提升 200%，14B 模型实现 7Hz 实时控制，30分钟适配新机型。机器人学会像人类一样通过“视觉”感知物理世界！
+
+#DreamZero #具身智能 #机器人 #AI人工智能 #NVIDIA #视频号",
+    "cover_image_prompt": "A futuristic robot performing complex tasks in a domestic environment, overlaid with transparent video frames showing predicted future movements, high-tech laboratory style, cinematic lighting, 8k resolution."
+}
